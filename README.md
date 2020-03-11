@@ -1,2 +1,2 @@
 # HackerRankSolutions
-this repository is creating for providing HackerRank challenges solutions
+this repository is created for providing HackerRank challenges solutions
